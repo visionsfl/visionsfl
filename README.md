@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @visionsfl
+- 👋 Hi, I’m clay
 - 👀 I’m interested in game development and programming
 - 🌱 I’m currently learning c++ & c#
 - 📫 How to reach me discord @ v11sionss or on my twitter.com/linearjoshua
